@@ -8,7 +8,6 @@
 ## add on ##
 *	ofxGui  
 *	ofxNoncopyable  
-*	ofxVboSet  
 *	ofxXmlSettings  
 
 
